@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Recovered forensic output
+recovered/
+Recovered/
+carved_output/
+output/
+reports/
+
+# Large datasets
+datasets/
+data/
+
+# Build files
+dist/
+build/
+*.spec
